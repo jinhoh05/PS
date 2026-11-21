@@ -1,0 +1,40 @@
+#include <iostream>
+
+#include <algorithm>
+
+using namespace std;
+
+ 
+
+int main(void)
+
+{
+
+        ios_base::sync_with_stdio(0);
+
+        cin.tie(0);
+
+        int A, B, C, D, P;
+
+        cin >> A >> B >> C >> D >> P;
+
+ 
+
+        int temp1 = A * P;
+
+        int temp2 = B;
+
+        if (P > C)
+
+                 temp2 += (P - C)*D;
+
+ 
+
+        cout << min(temp1, temp2) << "\n";
+
+        return 0;
+
+}
+
+
+
