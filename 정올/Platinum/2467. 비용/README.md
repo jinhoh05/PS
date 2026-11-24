@@ -1,0 +1,13 @@
+# [Platinum V] 비용 - 2467 
+
+[문제 링크](https://jungol.co.kr/problem/2467) 
+
+### 성능 요약
+
+메모리: 5640 KB, 시간: 99 ms
+
+### 제출 일자
+
+2020년 12월 12일 16:49:27
+
+> 출처: 정올(JUNGOL), https://jungol.co.kr/
